@@ -7,7 +7,7 @@ I’m Rohit Gupta, a Data Scientist at In Marketing We Trust with a Master’s i
 
 💬 Ask me about: Prompt engineering, causal impact analysis, multithreaded AI pipelines, and cloud‑native ML deployments.
 
-🛠️ Skills
+## 🛠️ Skills
 
 Data & ML: Python, R, Pandas, NumPy, Scikit‑learn, A/B Testing, Causal Impact Analysis, Deep Learning, NLP (TF‑IDF, NLTK)
 

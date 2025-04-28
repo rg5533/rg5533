@@ -1,25 +1,25 @@
 # 💫About Me :
 I’m Rohit Gupta, a Data Scientist at In Marketing We Trust with a Master’s in Data Science (RMIT) and over 4 years of industry experience. I design and deploy AI-driven solutions—from generative content pipelines to finance automation agents—to deliver measurable business impact.
 
-🔭 Currently: Building a Finance Agent using Google ADK & Document AI for automated bank‑statement parsing and transaction analysis.
+🔭 **Currently**: Building a Finance Agent using Google ADK & Document AI for automated bank‑statement parsing and transaction analysis.
 
-🌱 Exploring: Retrieval‑Augmented Generation (RAG) architectures, fine‑tuning reasoning‑focused LLMs, and vector‑database optimization.
+🌱 **Exploring**: Retrieval‑Augmented Generation (RAG) architectures, fine‑tuning reasoning‑focused LLMs, and vector‑database optimization.
 
-💬 Ask me about: Prompt engineering, causal impact analysis, multithreaded AI pipelines, and cloud‑native ML deployments.
+💬 **Ask me about**: Prompt engineering, causal impact analysis, multithreaded AI pipelines, and cloud‑native ML deployments.
 
 ## 🛠️ Skills
 
-Data & ML: Python, R, Pandas, NumPy, Scikit‑learn, A/B Testing, Causal Impact Analysis, Deep Learning, NLP (TF‑IDF, NLTK)
+**Data & ML:** Python, R, Pandas, NumPy, Scikit‑learn, A/B Testing, Causal Impact Analysis, Deep Learning, NLP (TF‑IDF, NLTK)
 
-LLMs & Generative AI: OpenAI GPT‑4, o4‑mini, Google Gemini, Claude‑3.5, LangChain, Perplexity AI, custom tool‑calling
+**LLMs & Generative AI:** OpenAI GPT‑4, o4‑mini, Google Gemini, Claude‑3.5, LangChain, Perplexity AI, custom tool‑calling
 
-Cloud & Infrastructure: GCP (Document AI, Vertex AI, BigQuery, Compute Engine), AWS (Lambda, ECR, S3, SageMaker), Docker, Matillion ETL, Airflow
+**Cloud & Infrastructure:** GCP (Document AI, Vertex AI, BigQuery, Compute Engine), AWS (Lambda, ECR, S3, SageMaker), Docker, Matillion ETL, Airflow
 
-Big Data & Datastores: Qubole Data Lake, BigQuery, ChromaDB, FAISS
+**Big Data & Datastores:** Qubole Data Lake, BigQuery, ChromaDB, FAISS
 
-Visualization & BI: Plotly, Seaborn, PowerBI, Looker Studio, Tableau, MLflow
+**Visualization & BI:** Plotly, Seaborn, PowerBI, Looker Studio, Tableau, MLflow
 
-Databases & Scripting: SQL (MySQL, PostgreSQL), Shell scripting, Git & GitHub Actions
+**Databases & Scripting:** SQL (MySQL, PostgreSQL), Shell scripting, Git & GitHub Actions
 
 
 ## 🌐Socials
